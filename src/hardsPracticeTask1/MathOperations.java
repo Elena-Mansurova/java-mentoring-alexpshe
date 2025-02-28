@@ -71,14 +71,12 @@ public class MathOperations {
         System.out.println("substract: " + substract(4, 3));
         System.out.println("multiply: " + multiply(5, 15));
         System.out.println("divide: " + divide(9, 3));
-        System.out.println("-------------------------------");
         System.out.println("findMax: " + findMax(-55, -66));
         System.out.println("difference: " + difference(200, -15));
-        System.out.println("squareArea: " + squareArea(5));
+        System.out.println("squareArea: " + squareArea(4));
         System.out.println("squarePerimeter: " + squarePerimeter(10));
         System.out.println("convertSecondsToMinutes: " + convertSecondsToMinutes(120));
         System.out.println("averageSpeed " + averageSpeed(650.5, 2.5));
-        System.out.println("-----------------------------------");
         System.out.println("Гипотенуза равна: " + findHypotenuse(25, 16));
         System.out.println("Длина окружности равна: " + circleCircumference(4.0));
         System.out.println("Процент = " + calculatePercentage(20.0, 4.0 ));
